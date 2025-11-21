@@ -1,0 +1,60 @@
+
+# 2025-11-21 06:11:32.431500
++Code the following app
++```
++Description:
++DAO Voting Power Calculator helps users calculate their voting weight across different DAO governance systems. Understand how much influence your tokens provide and plan your governance participation effectively.
++
++Key Features:
++ • Calculates voting power based on token balance and DAO-specific rules.
++ • Supports delegated voting, staked tokens, and veToken models.
++ • Multi-chain support (Ethereum, Polygon, Arbitrum, etc.).
++ • Comparison view for multiple DAOs.
++ • Alerts for changes in governance parameters or voting multipliers.
++
++Target Users:
++DAO participants, governance voters, token holders, and analysts who want to understand and optimize their influence in decentralized governance.
++
++Usage Instructions:
++ 1. Enter your wallet address or input token balances manually.
++ 2. Choose the DAO model (1 token = 1 vote, veToken, delegated voting, etc.).
++ 3. View your calculated voting power.
++ 4. Compare voting influence across multiple DAOs.
++
++Benefits:
++ • Understand your real governance power before voting.
++ • Optimize your holdings for maximum voting impact.
++ • Track changes in voting rules across DAOs.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 06:11:32.432260
++Code the following app
++```
++Description:
++DAO Voting Power Calculator helps users calculate their voting weight across different DAO governance systems. Understand how much influence your tokens provide and plan your governance participation effectively.
++
++Key Features:
++ • Calculates voting power based on token balance and DAO-specific rules.
++ • Supports delegated voting, staked tokens, and veToken models.
++ • Multi-chain support (Ethereum, Polygon, Arbitrum, etc.).
++ • Comparison view for multiple DAOs.
++ • Alerts for changes in governance parameters or voting multipliers.
++
++Target Users:
++DAO participants, governance voters, token holders, and analysts who want to understand and optimize their influence in decentralized governance.
++
++Usage Instructions:
++ 1. Enter your wallet address or input token balances manually.
++ 2. Choose the DAO model (1 token = 1 vote, veToken, delegated voting, etc.).
++ 3. View your calculated voting power.
++ 4. Compare voting influence across multiple DAOs.
++
++Benefits:
++ • Understand your real governance power before voting.
++ • Optimize your holdings for maximum voting impact.
++ • Track changes in voting rules across DAOs.
++```
++
++Generate an app logo and update the app metadata title and description.
